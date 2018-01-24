@@ -1,4 +1,8 @@
-# Discord Encryption
+# Outdated and inferior - use master branch
+- Use master branch for newest version
+- (This is the beta version and is for reference only)
+
+## Discord Encryption
 An experimental encryption solution for Discord using [BetterDiscord](https://github.com/jiiks/betterdiscordapp)
 
 ## Features
