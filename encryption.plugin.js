@@ -90,7 +90,7 @@ class encryption {
 	}
 
   	getVersion() {
-		return '0.6.8';
+		return '0.8.8';
 	}
 
 	getDescription() {
